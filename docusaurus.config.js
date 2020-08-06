@@ -137,7 +137,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/kmee/erplivre-docs/edit/master/website/',
+            'https://github.com/kmee/erplivre-docs/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
